@@ -1,0 +1,2 @@
+# myhomeworkBayes
+Bayes problem
